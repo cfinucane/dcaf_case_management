@@ -25,7 +25,7 @@ We love tests! All the tests can be found in the test directory, and it's a grea
 
 ### Capybara & PhantomJS
 
-* [Capybara](http://teamcapybara.github.io/capybara/) is a Ruby integration testing library that can uses browser (in our case, a headless one, meaning you don't see it) to fill in forms, click buttons, and generally interact with the app, and then verifies that things worked as we expected!
+* [Capybara](http://teamcapybara.github.io/capybara/) is a Ruby integration testing library that uses a browser (in our case, a headless one, meaning you don't see it) to fill in forms, click buttons, and generally interact with the app, and then verifies that things worked as we expected!
 * Here are [the Capybara docs](http://www.rubydoc.info/github/teamcapybara/capybara/master)
 * [PhantomJS](http://phantomjs.org/) is the driver that we use to run these tests -- it's the technology that actually spins up the browser that the Capybara tests run against. If everything goes as planned, you won't have to interact directly with PhantomJS at all! :ghost:
 
