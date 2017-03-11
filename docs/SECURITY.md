@@ -25,7 +25,7 @@ Our project uses a variety of industry standard methods to ensure our existing c
 
 ## Automated testing
 
-We use it a point to write unit and integration tests for our codebase, which ensures a high level of code quality. This means that we break our app into individual features and functions, and have code which runs them all and confirms that they produce the intended output.
+We make it a point to write unit and integration tests for our codebase, which ensures a high level of code quality. This means that we break our app into individual features and functions, and have code which runs them all and confirms that they produce the intended output.
 
 Proposed code changes are expected to be accompanied by tests proving that they work as intended. If one or more of our automated tests fails, code changes do not get deployed into our sandbox or production environments.
 
