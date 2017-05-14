@@ -38,5 +38,8 @@ module DcafCaseManagement
     # we are using Mongoid instead of Rails' built in ActiveRecord. -CF
     # Do not swallow errors in after_commit/after_rollback callbacks.
     # config.active_record.raise_in_transactional_callbacks = true
+
+    # Make sure we get the benefits of per-form CSRF for remote forms too!
+    config.action_view.embed_authenticity_token_in_remote_forms = true
   end
 end
