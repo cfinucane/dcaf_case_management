@@ -51,6 +51,11 @@
       "description": "domain you want emails to come from. Should be your fund's domain. e.g. dcabortionfund.org",
       "value": "change me"
     },
+    "FUND_LOGO_URL": {
+      "description": "absolute URL to logo image for footer",
+      "value": "",
+      "required": false
+    },
     "DARIA_LINES": {
       "description": "Lines to divide calls into, separated by commas. If one line, just put Main",
       "value": "Main"
