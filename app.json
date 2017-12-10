@@ -19,6 +19,10 @@
       "description": "fund abbreviation. e.g. DCAF",
       "value": ""
     },
+    "DARIA_FUND_URL": {
+      "description": "fund website",
+      "value": ""
+    },
     "DARIA_FUND_FULL": {
       "description": "full fund name. e.g. DC Abortion Fund",
       "value": ""
