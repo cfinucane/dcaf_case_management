@@ -17,15 +17,15 @@
     },
     "DARIA_FUND": {
       "description": "fund abbreviation. e.g. DCAF",
-      "value": ""
+      "value": "change me"
     },
     "DARIA_FUND_FULL": {
       "description": "full fund name. e.g. DC Abortion Fund",
-      "value": ""
+      "value": "change me"
     },
     "DARIA_FUND_PHONE": {
       "description": "Your fund's hotline number, for display in the footer. e.g. 202-452-7464",
-      "value": ""
+      "value": "change me"
     },
     "DARIA_FAX_SERVICE": {
       "description": "URL of your fax service, for display in the footer. e.g. www.efax.com",
@@ -49,7 +49,7 @@
     },
     "FUND_MAILER_DOMAIN": {
       "description": "domain you want emails to come from. Should be your fund's domain. e.g. dcabortionfund.org",
-      "value": ""
+      "value": "change me"
     },
     "DARIA_LINES": {
       "description": "Lines to divide calls into, separated by commas. If one line, just put Main",
@@ -69,7 +69,7 @@
     },
     "SITE_URL": {
       "description": "The app name you just selected plus .herokuapp.com . e.g. myfund.herokuapp.com",
-      "value": ""
+      "value": "change me"
     },
     "SKYLIGHT_AUTH_TOKEN": {
       "description": "get it from Skylight",
